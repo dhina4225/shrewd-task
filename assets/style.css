@@ -142,7 +142,6 @@ nav {
     display: flex;
     border-radius: 32px;
     background: #FFF;
-    width: ;
     padding: 32px 32px 56px 32px;
     flex-direction: column;
     align-items: center;
@@ -385,7 +384,7 @@ img {
 
 .email-input {
     width: 95%;
-    margin-top: ;
+    margin-top: 30px;
     padding: 10px 32px;
     height: 50px;
     background: #fff;
@@ -412,6 +411,11 @@ img {
     -moz-border-radius: 10px;
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
+}
+
+.cta-item {
+    display: flex;
+
 }
 
 .footer {
